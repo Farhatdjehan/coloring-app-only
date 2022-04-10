@@ -1,0 +1,86 @@
+{
+  "common": {
+    "skip": "Skip",
+    "continue": "Continue",
+    "edit": "Edit",
+    "finish": "Save",
+    "title": "Notification",
+    "message": "Message",
+    "error": "Error",
+    "unknown": "Unknown",
+    "today": "Today",
+    "done": "Done",
+    "ok": "OK",
+    "cancel": "Cancel",
+    "replay": "Replay",
+    "next": "Next Picture",
+    "painting": "Color Now",
+    "save": "Done",
+    "clear": "Clear",
+    "take": "Save",
+    "showVideo": "Show video",
+    "nextPainting": "Next picture",
+    "chooseCharacter": "Choose character"
+  },
+  "message": {
+    "check_connection": "Check your internet connection.",
+    "please_input": "Please input email or password",
+    "email_format_error": "Email format error, please edit",
+    "password_not_match": "Password not match, please check",
+    "verify_code_error": "Verify code error",
+    "please_choose_currency": "Please choose currency"
+  },
+  "tutorial": {
+    "tutorial_title_1": "Selamat Datang!",
+    "tutorial_content_1": "Mewarnai gambar, berimajinasi dan bereksperimen dengan warna. Bersama CHACHA minis",
+
+    "tutorial_title_2": "Warnai Gambar",
+    "tutorial_content_2": "Berimajinasi dan bereksperimen dengan warna",
+
+    "tutorial_title_3": "Buat Gambar Menjadi Hidup",
+    "tutorial_content_3": "Mauris a diam maecenas sed enim ut. Interdum velit laoreet id donec ultrices tincidunt arcu non.",
+
+    "tutorial_title_4": "Save your art",
+    "tutorial_content_4": "Mauris a diam maecenas sed enim ut. Interdum velit laoreet id donec ultrices tincidunt arcu non.",
+
+    "button_started": "Mari Mulai",
+    "button_ship": "Lanjut",
+    "button_let_go": "Ayo!"
+  },
+  "menu": {
+    "new_painting": "Chacha Coloring",
+    "scan_packaging": "Chacha AR",
+    "game": "Play Game",
+    "words": "Learn Words",
+    "numbers": "Learn Numbers",
+    "words_left": "words left",
+    "puzzles": "puzzles"
+  },
+  "paint": {
+    "title": "Chacha Coloring",
+    "animals": "Policeman",
+    "listAnimal": "Policeman",
+    "fireman": "Fireman",
+    "listFiremam": "Fireman",
+    "constructor": "Constructor",
+    "listConstructor": "Constructor",
+    "objects": "Objects painting",
+    "listObject": "Objects list",
+    "animals_waiting_for_you": "The animals is waiting for you!",
+    "finish": "Finish",
+    "correct": "Yay! You are correct.",
+    "wrong": "Opps! Wrong answer.",
+    "paintedList": "Your collection"
+  },
+  "toolbar": {
+    "let_write": "Let's write!",
+    "animal_relate": "Animal Relate",
+    "let_play": "Let's play"
+  },
+  "play": {
+    "question": "Can you choose the correct animal?"
+  },
+  "AR": {
+    "policemanScene": "Policeman"
+  }
+}

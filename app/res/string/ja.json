@@ -1,0 +1,145 @@
+{
+  "common": {
+    "skip": "Skip",
+    "continue": "Continue",
+    "edit": "Edit",
+    "finish": "Save",
+    "title": "Notification",
+    "message": "Message",
+    "error": "Error",
+    "today": "Today",
+    "done": "Done"
+  },
+  "tutorial": {
+    "tutorial_title_1": "Easy Wallet Control",
+    "tutorial_content_1": "Create wallets and easyly to manage your cash flow.",
+    "tutorial_title_2": "Cash View Convenient",
+    "tutorial_content_2": "You can capture income & expense most visually with categories, time.",
+    "tutorial_title_3": "Expense Report",
+    "tutorial_content_3": "Review and manage your income & expense by category, time easy and quickly.Help you balance the expense and saving money.",
+    "button_started": "GET STARTED"
+  },
+  "auth": {
+    "welcome_back": "Welcome Back!",
+    "username": "Email",
+    "password": "Password",
+    "re_password": "Re Password",
+    "sign_up": "Sign Up",
+    "sign_in": "Sign In",
+    "or": "or",
+    "forgot_password": "Forgot password?",
+    "sign_in_facebook": "Sign In with Facebook",
+    "sign_up_facebook": "Sign Up with Facebook",
+    "dont_have_an_account": "Don't have an account? ",
+    "have_an_account": "Have an account? ",
+    "hint_forgot_password": "Do not worry, choose the method you want to retrieve your password.",
+    "send_your_email": "Send your E-Mail",
+    "send_your_phone": "Send your Phone number",
+    "verify_code": "Verify Code",
+    "hint_verify_code": "Do not worry, choose the method you want to retrieve your password.",
+    "resend_verify_code": "Resend"
+  },
+  "card": {
+    "title": "Add Card or Bank",
+    "card_number": "Card Number",
+    "card_name": "Card Holder Name",
+    "scan": "Scan card",
+    "add": "Add Card"
+  },
+  "wallet": {
+    "title": "Wallet",
+    "income": "Income",
+    "expense": "Expense",
+    "create": "Create Wallet",
+    "name": "Name Wallet",
+    "hint_name_wallet": "Name Wallet",
+    "currency": "Currency",
+    "balance": "Balance",
+    "link_card_or_bank": "Link Card or Bank",
+    "tab_1": "LAST MONTH",
+    "tab_2": "THIS MONTH",
+    "tab_3": "NEXT MONTH",
+    "choose": "Choose Wallet",
+    "add": "Add Wallet"
+  },
+  "profile": {
+    "title": "Profile",
+    "require_login": "Please sign in to use the full functionality of the application. Thank you!",
+    "top_categories": "TOP CATEGORIES"
+  },
+  "upgrade_account": {
+    "title": "Upgrade Account",
+    "buy_now": "BUY NOW",
+    "remove_ads": "Remove Ads",
+    "remove_ads_content": "Business Cards Does Your Business Information Stick",
+    "unlimited": "Unlimited Wallet",
+    "unlimited_content": "3 Smart Reasons Why You Should Consider Paying For Your Traffic",
+    "backup": "Backup and Sync",
+    "backup_content": "Welcome To Desiclassifieds Free Classifieds Free Ads Free Advertisement",
+    "share": "Share Wallet",
+    "share_content": "Welcome To Desiclassifieds Free Classifieds Free Ads Free Advertisement"
+  },
+  "information": {
+    "title": "Information",
+    "first_name": "FIRST NAME",
+    "last_name": "LAST NAME",
+    "email": "EMAIL",
+    "phone": "PHONE NUMBER",
+    "gender": "GENDER",
+    "go_premium": "Go Premium"
+  },
+  "setting": {
+    "title": "Setting",
+    "information": "Information",
+    "device": "DEVICE",
+    "general": "GENERAL",
+    "notification": "Notification",
+    "face_id": "Face ID"
+  },
+  "social": {
+    "contact": "CONTACT",
+    "facebook": "FACEBOOK",
+    "twitter": "TWITTER"
+  },
+  "friend": {
+    "choose": "Choose Friend"
+  },
+  "chart": {
+    "title": "Chart"
+  },
+  "transaction": {
+    "title": "Add Transaction",
+    "category": "Category",
+    "date": "Date",
+    "memo": "Memo",
+    "wallet": "Wallet",
+    "friends": "Friends",
+    "location": "Location",
+    "add_image": "Add Image"
+  },
+  "category": {
+    "title": "Category"
+  },
+  "location": {
+    "title": "Choose Location"
+  },
+  "camera": {
+    "title": "Cameraroll"
+  },
+  "search": {
+    "currency": "Search Currency",
+    "category": "Search Category",
+    "wallet": "Search Wallet",
+    "location": "Search Location"
+  },
+  "menu": {
+    "wallet": "Wallet",
+    "category": "Category",
+    "report": "Report",
+    "theme": "Theme",
+    "help_and_support": "Help & Support",
+    "temp_and_policy": "Temp & Policy",
+    "about_us": "About Us",
+    "logout": "Log Out"
+  }
+}
