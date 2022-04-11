@@ -48,8 +48,8 @@ buck-out
 # Android
 .idea
 .gradle
-local.properties
-*.iml
+# local.properties
+# *.iml
 # /android/
 android/java_*.hprof
 android/app/build
