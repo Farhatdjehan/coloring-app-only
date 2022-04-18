@@ -15,9 +15,13 @@ sdk.dir=/Users/user_name/AppData/Local/Android/sdk
 ndk.dir=/Users/user_name/AppData/Local/Android/NDK
 (if you have already installed, just set installation path of SDK and NDK in local.properties)
 
-5. Run ```yarn install```
+5. Setup your environment variable, see this docs https://reactnative.dev/docs/environment-setup and select React Native CLI Quickstart or you can add a environment variable in System Variable with Variable Name ANDROID_HOME (for SDK path), and JAVA_HOME (for JDK path) and also in Path, click edit and add your platform-tools path. Repeat the step for User Variable for ANDROID_HOME (for SDK path) and platform-tools path.
 
-6. Run ```yarn android```
+6. Restart your computer
+ 
+7. Run ```yarn install```
+
+8. Run ```yarn android```
 
 
 # Install SDK and NDK
